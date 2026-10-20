@@ -35,8 +35,8 @@ development, architecture, linux, and open-source software.
 
 <pre>
 software development/
-linux & customization/
-games & storytelling/
+linux ricing/
+pc gaming/
 music production/
 language learning/
 </pre>
