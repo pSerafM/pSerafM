@@ -1,5 +1,10 @@
 <div align="center">
 
+> serafim
+> 20y
+> software engineering student
+> intern
+
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⡞⠉⠀⠉⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -21,8 +26,4 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⠀⠉⠉⠁⠀⡰⠃⣿⠀⠓⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ⠀⠀⠀⠙⠒⠒⠒⠋⠀
 ```
-> serafim
-> 20y
-> software engineering student
-> intern
 </div>
