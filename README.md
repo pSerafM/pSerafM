@@ -19,11 +19,11 @@ development, architecture, linux, and open-source software.
 <p>~/about_me $ ls ./interests</p>
 
 <pre>
-software development/
-linux ricing/
-pc gaming/
-music production/
-language learning/
+./software development/
+./linux ricing/
+./pc gaming/
+./music production/
+./language learning/
 </pre>
 <div align="center">
 
