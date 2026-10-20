@@ -1,9 +1,9 @@
 <div align="center">
 
-> serafim
-> 20y
-> software engineering student
-> intern
+> serafim |
+> 20y |
+> software engineering student |
+> intern |
 
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀
