@@ -14,12 +14,12 @@
 
 
 <pre>
-┌──[ serafim@github ]─────────────────────┐
+┌──[ serafim ]─────────────────────────────┐
 │                                          │
-│   > serafim |
-|   > 20y |
-|   > software engineering student |
-|   > intern |                │
+│   > serafim                              | 
+|   > 20y                                  |
+|   > software engineering student         |
+|   > intern                               │
 │                                          │
 └──────────────────────────────────────────┘
 </pre>
@@ -27,13 +27,16 @@
 <p>~/about_me $ whoami</p>
 
 <pre>
-Software engineering student interested in
+Software engineering student and intern interested in
 development, architecture, linux, and open-source software.
 </pre>
 
 <p>~/about_me $ ls ./interests</p>
 
 <pre>
-software-development/
-personal-projects/
+software development/
+linux & customization/
+games & storytelling/
+music production/
+language learning/
 </pre>
