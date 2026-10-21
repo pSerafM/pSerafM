@@ -19,7 +19,6 @@ development, software architecture, linux, and open-source software.
 <p>~/about_me $ printenv | grep CONTACT
 
 <pre>
-EMAIL    : <p>./serafim.contt@gmail.com./</p>
 LINKEDIN : <a href="https://www.linkedin.com/in/pedro-serafim-32489b297">./linkedIn/</a>
 INSTAGRAM: <a href="https://www.instagram.com/pedroserafim._/">./instagram/
 </pre>
