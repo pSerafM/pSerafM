@@ -1,7 +1,7 @@
 <pre>
 ┌──[ serafim ]─────────────────────────────┐
 │                                          │
-│   > serafim                              | 
+│   > Pedro Antonio Serafim                | 
 |   > 20y                                  |
 |   > software engineering student         |
 |   > intern                               │
@@ -12,8 +12,8 @@
 <p>~/about_me $ whoami</p>
 
 <pre>
-Software engineering student and intern interested in
-development, architecture, linux, and open-source software.
+Software engineering student interested in
+development, software architecture, linux, and open-source software.
 </pre>
 
 <p>~/about_me $ printenv | grep CONTACT
@@ -24,7 +24,7 @@ LINKEDIN : <a href="https://www.linkedin.com/in/pedro-serafim-32489b297/?isSelfP
 INSTAGRAM: <a href="https://www.instagram.com/pedroserafim._/">./instagram/
 </pre>
 
-<p>~/about_me $ ls ./interests</p>
+<p>~/about_me $ ls ./personal_interests</p>
 
 <pre>
 ./software development/
